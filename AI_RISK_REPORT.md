@@ -1,6 +1,6 @@
 # AI Risk Report
 
-_Generated: 2026-09-03T14:29:50.386114Z_  
+_Generated: 2026-09-03T15:52:21.921582Z_  
 _Status: FAILED_  
 _Scanned 1325 Python file(s). Fail threshold: high._  
 _Risk scan mode: static_
